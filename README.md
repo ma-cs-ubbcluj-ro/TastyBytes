@@ -88,8 +88,7 @@ If I delete a recipe while offline, it disappears from my phone right away. The 
  
 
 6. App Mockups 
-
-The mockup images are placed in the repository right next to this README.md file: 
+https://www.figma.com/design/1PF4OAy3wlVfhSh7R5ZbxY/Untitled?node-id=0-1&t=lCDKGhwoyqWphmg2-1
 
  
 
